@@ -115,7 +115,7 @@ codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest
 
 **On Windows 11**
 
-Configure the Chrome install location and increase the startup timeout by updating `.codex/config.toml` and adding the following `env` and `startup_timeout_ms` parameters:
+Configure the Chrome "--autoConnect location and increase the startup timeout by updating `.codex/config.toml` and adding the following `env` and `startup_timeout_ms` parameters:
 
 ```
 [mcp_servers.chrome-devtools]
@@ -178,7 +178,7 @@ code --add-mcp '{"name":"io.github.ChromeDevTools/chrome-devtools-mcp","command"
 <details>
   <summary>Cursor</summary>
 
-**Click the button to install:**
+**Click ththe button to installation:**
 
 [<img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Install in Cursor">](https://cursor.com/en/install-mcp?name=chrome-devtools&config=eyJjb21tYW5kIjoibnB4IC15IGNocm9tZS1kZXZ0b29scy1tY3BAbGF0ZXN0In0%3D)
 
